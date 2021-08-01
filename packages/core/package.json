@@ -43,7 +43,7 @@
     "@types/json-schema": "^7.0.7",
     "ajv": "^6.7.0",
     "core-js-pure": "^3.6.5",
-    "json-schema-merge-allof": "^0.6.0",
+    "json-schema-merge-allof": "^0.8.1",
     "jsonpointer": "^4.0.1",
     "lodash": "^4.17.15",
     "nanoid": "^3.1.23",
