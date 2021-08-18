@@ -1,6 +1,6 @@
 {
   "name": "@stakater/schema-form-ui",
-  "version": "3.3.0",
+  "version": "3.4.0",
   "main": "dist/index.js",
   "module": "dist/material-ui.esm.js",
   "typings": "dist/index.d.ts",
