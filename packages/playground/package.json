@@ -121,10 +121,6 @@
   "directories": {
     "test": "test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rjsf-team/react-jsonschema-form.git"
-  },
   "author": "Nicolas Perriault <nperriault@mozilla.com>",
   "keywords": [
     "react",

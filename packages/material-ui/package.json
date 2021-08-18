@@ -63,7 +63,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rjsf-team/react-jsonschema-form.git"
+    "url": "git+https://github.com/stakater/react-jsonschema-form.git"
   },
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "gitHead": "cffb7a662f18a08733c35f5c08b5353a3804fb3e"
 }
