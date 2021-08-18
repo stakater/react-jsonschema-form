@@ -1,6 +1,6 @@
-// Originally from https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/@rjsf/core/index.d.ts
+// Originally from https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/@stakater/schema-form-core/index.d.ts
 
-declare module '@rjsf/core' {
+declare module '@stakater/schema-form-core' {
     import * as React from 'react';
     import { JSONSchema7, JSONSchema7Definition, JSONSchema7Type, JSONSchema7TypeName } from 'json-schema';
 
@@ -437,9 +437,9 @@ declare module '@rjsf/core' {
     }
 }
 
-declare module '@rjsf/core/lib/components/fields/SchemaField' {
+declare module '@stakater/schema-form-core/lib/components/fields/SchemaField' {
     import { JSONSchema7 } from 'json-schema';
-    import { FieldProps, UiSchema, IdSchema, FormValidation } from '@rjsf/core';
+    import { FieldProps, UiSchema, IdSchema, FormValidation } from '@stakater/schema-form-core';
 
     export type SchemaFieldProps<T = any> = Pick<
         FieldProps<T>,
@@ -449,9 +449,9 @@ declare module '@rjsf/core/lib/components/fields/SchemaField' {
     export default class SchemaField extends React.Component<SchemaFieldProps> {}
 }
 
-declare module '@rjsf/core/lib/validate' {
+declare module '@stakater/schema-form-core/lib/validate' {
     import { JSONSchema7Definition } from 'json-schema';
-    import { AjvError, ErrorSchema, FormProps } from '@rjsf/core';
+    import { AjvError, ErrorSchema, FormProps } from '@stakater/schema-form-core';
 
     export default function validateFormData<T = any>(
         formData: T,
