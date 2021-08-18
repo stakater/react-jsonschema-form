@@ -1,5 +1,5 @@
 {
-  "name": "@rjsf/material-ui",
+  "name": "@stakater/fs-material-ui",
   "version": "4.0.0",
   "main": "dist/index.js",
   "module": "dist/material-ui.esm.js",
@@ -16,7 +16,7 @@
   "peerDependencies": {
     "@material-ui/core": "^4.2.0",
     "@material-ui/icons": "^4.2.1",
-    "@rjsf/core": "^3.0.0",
+    "@stakater/fs-core": "^3.0.0",
     "react": ">=16"
   },
   "devDependencies": {
@@ -27,7 +27,7 @@
     "@babel/preset-react": "^7.0.0",
     "@material-ui/core": "^4.2.0",
     "@material-ui/icons": "^4.2.1",
-    "@rjsf/core": "^4.0.0",
+    "@stakater/fs-core": "^4.0.0",
     "@types/jest": "^24.0.15",
     "@types/json-schema": "^7.0.7",
     "@types/react": "^16.9.23",
@@ -66,5 +66,5 @@
     "url": "git+https://github.com/stakater/react-jsonschema-form.git"
   },
   "license": "Apache-2.0",
-  "gitHead": "3e453fa4da7419529abf2714a55a0612c895d14e"
+  "gitHead": "1c07f538a58cb1484c7a74fab37ea515aba71998"
 }
