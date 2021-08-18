@@ -48,7 +48,7 @@
     "typescript": "^3.5.3"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "private"
   },
   "author": "",
   "keywords": [
@@ -65,11 +65,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rjsf-team/react-jsonschema-form.git"
+    "url": "git+https://github.com/stakater/react-jsonschema-form.git"
   },
   "license": "Apache-2.0",
   "dependencies": {
     "lodash": "^4.17.15",
     "lodash-es": "^4.17.15"
-  }
+  },
+  "gitHead": "3e453fa4da7419529abf2714a55a0612c895d14e"
 }

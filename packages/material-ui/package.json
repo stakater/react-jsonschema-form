@@ -43,7 +43,7 @@
     "typescript": "^3.5.3"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "private"
   },
   "author": "Agustin N. R. Ramirez <agustin.ramirez@cybertec.at>",
   "contributors": [
@@ -63,7 +63,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rjsf-team/react-jsonschema-form.git"
+    "url": "git+https://github.com/stakater/react-jsonschema-form.git"
   },
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "gitHead": "3e453fa4da7419529abf2714a55a0612c895d14e"
 }

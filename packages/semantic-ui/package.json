@@ -91,7 +91,7 @@
     "webpack-hot-middleware": "^2.13.2"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "private"
   },
   "author": "Jacques Nel <jacqueswho@gmail.com>",
   "contributors": [
@@ -111,11 +111,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rjsf-team/react-jsonschema-form.git"
+    "url": "git+https://github.com/stakater/react-jsonschema-form.git"
   },
   "license": "Apache-2.0",
   "dependencies": {
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^0.87.3"
-  }
+  },
+  "gitHead": "3e453fa4da7419529abf2714a55a0612c895d14e"
 }
