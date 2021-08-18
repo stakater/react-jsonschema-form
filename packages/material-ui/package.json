@@ -1,5 +1,5 @@
 {
-  "name": "@rjsf/material-ui",
+  "name": "@stakater/schema-form-ui",
   "version": "3.3.0",
   "main": "dist/index.js",
   "module": "dist/material-ui.esm.js",
@@ -66,5 +66,5 @@
     "url": "git+https://github.com/stakater/react-jsonschema-form.git"
   },
   "license": "Apache-2.0",
-  "gitHead": "cffb7a662f18a08733c35f5c08b5353a3804fb3e"
+  "gitHead": "9b12bac2e1edad9f3beb57b8eb858771cda2b8bd"
 }

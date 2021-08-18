@@ -95,5 +95,6 @@
   "homepage": "https://github.com/rjsf-team/react-jsonschema-form",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "9b12bac2e1edad9f3beb57b8eb858771cda2b8bd"
 }

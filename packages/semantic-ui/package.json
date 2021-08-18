@@ -113,5 +113,6 @@
   "dependencies": {
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^0.87.3"
-  }
+  },
+  "gitHead": "9b12bac2e1edad9f3beb57b8eb858771cda2b8bd"
 }
