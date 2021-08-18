@@ -1,4 +1,4 @@
-import { WidgetProps } from "@rjsf/core";
+import { WidgetProps } from "@stakater/fs-core";
 import { JSONSchema7 } from "json-schema";
 
 export const mockSchema: JSONSchema7 = {

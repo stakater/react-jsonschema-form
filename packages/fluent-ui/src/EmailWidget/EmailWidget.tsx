@@ -1,6 +1,6 @@
 import React from "react";
 
-import { WidgetProps } from "@rjsf/core";
+import { WidgetProps } from "@stakater/fs-core";
 
 import TextWidget from "../TextWidget";
 

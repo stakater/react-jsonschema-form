@@ -2,7 +2,7 @@ import React from "react";
 
 import Form from "react-bootstrap/Form";
 
-import { WidgetProps } from "@rjsf/core";
+import { WidgetProps } from "@stakater/fs-core";
 
 const PasswordWidget = ({
   id,

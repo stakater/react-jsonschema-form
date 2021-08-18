@@ -1,4 +1,4 @@
-import { utils } from '@rjsf/core';
+import { utils } from '@stakater/fs-core';
 
 import DescriptionField from './fields/DescriptionField';
 import TitleField from './fields/TitleField';

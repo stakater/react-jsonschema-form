@@ -1,6 +1,6 @@
 import React from "react";
 
-import { FieldProps } from "@rjsf/core";
+import { FieldProps } from "@stakater/fs-core";
 
 import { Text } from "@fluentui/react";
 

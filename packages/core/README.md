@@ -10,7 +10,7 @@
     <img src="https://raw.githubusercontent.com/rjsf-team/react-jsonschema-form/59a8206e148474bea854bbb004f624143fbcbac8/packages/core/logo.png" alt="Logo" width="180" height="120">
   </a>
 
-  <h3 align="center">@rjsf/core</h3>
+  <h3 align="center">@stakater/fs-core</h3>
 
   <p align="center">
   Core logic and classic Bootstrap 3 theme for <a href="https://github.com/rjsf-team/react-jsonschema-form/"><code>react-jsonschema-form</code></a>.
@@ -67,13 +67,13 @@ To use the default Bootstrap 3 theme, add a Bootstrap 3 CSS tag to your HTML pag
 ### Installation
 
 ```sh
-npm install @rjsf/core
+npm install @stakater/fs-core
 ```
 
 ## Usage
 
 ```javascript
-import Form from '@rjsf/core';
+import Form from '@stakater/fs-core';
 ```
 
 <!-- ROADMAP -->
@@ -105,8 +105,8 @@ GitHub repository: [https://github.com/rjsf-team/react-jsonschema-form](https://
 [contributors-url]: https://github.com/rjsf-team/react-jsonschema-form/graphs/contributors
 [license-shield]: https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=flat-square
 [license-url]: https://choosealicense.com/licenses/apache-2.0/
-[npm-shield]: https://img.shields.io/npm/v/@rjsf/core/latest.svg?style=flat-square
-[npm-url]: https://www.npmjs.com/package/@rjsf/core
-[npm-dl-shield]: https://img.shields.io/npm/dm/@rjsf/core.svg?style=flat-square
-[npm-dl-url]: https://www.npmjs.com/package/@rjsf/core
+[npm-shield]: https://img.shields.io/npm/v/@stakater/fs-core/latest.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/@stakater/fs-core
+[npm-dl-shield]: https://img.shields.io/npm/dm/@stakater/fs-core.svg?style=flat-square
+[npm-dl-url]: https://www.npmjs.com/package/@stakater/fs-core
 [product-screenshot]: https://raw.githubusercontent.com/rjsf-team/react-jsonschema-form/59a8206e148474bea854bbb004f624143fbcbac8/packages/core/screenshot.png

@@ -1,5 +1,5 @@
 import React from "react";
-import { utils } from "@rjsf/core";
+import { utils } from "@stakater/fs-core";
 import TextWidget, { TextWidgetProps } from "../TextWidget";
 
 const { localToUTC, utcToLocal } = utils;
