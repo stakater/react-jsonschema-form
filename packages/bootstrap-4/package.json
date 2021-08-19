@@ -61,11 +61,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/stakater/react-jsonschema-form.git"
   },
   "license": "MIT",
   "dependencies": {
     "react-icons": "^3.10.0"
   },
-  "gitHead": "a8377b8faee4a0d22b2c46ee3b22c71560193e97"
+  "gitHead": "ef394d73ad8d7d758aa17f87c7b7e4b1cdc13224"
 }
