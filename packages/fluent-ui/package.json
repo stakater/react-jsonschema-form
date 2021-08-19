@@ -19,7 +19,7 @@
   },
   "peerDependencies": {
     "@fluentui/react": "^7.114.2",
-    "@stakater/fs-core": "^3.0.0",
+    "@stakater/fs-core": "^4.0.0",
     "react": ">=16"
   },
   "devDependencies": {
