@@ -30,7 +30,7 @@ const Theme: ThemeProps = {
   fields: { ...fields, ...Fields },
   FieldTemplate,
   ObjectFieldTemplate,
-  widgets: { ...widgets, ...Widgets },
+  widgets: { ...widgets, ...Widgets } as any,
   ErrorList,
 };
 
